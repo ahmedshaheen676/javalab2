@@ -4,5 +4,8 @@ public class lab1{
 		System.out.println("welecome to our prog from github");
 		System.out.println("shaheeen");
 		System.out.println("welecome from callborator ahmedmuhammedpro");
+		System.out.println("shaheeen");
+		System.out.println("shaheeen");
+
 	}
 }
